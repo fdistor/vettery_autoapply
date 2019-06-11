@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fdistor/vettery_autoapply/issues"
   },
-  "homepage": "https://github.com/fdistor/vettery_autoapply#readme"
+  "homepage": "https://github.com/fdistor/vettery_autoapply#readme",
+  "devDependencies": {
+    "puppeteer": "^1.17.0"
+  }
 }
