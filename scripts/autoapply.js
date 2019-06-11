@@ -1,5 +1,5 @@
 const puppeteer = require("puppeteer");
-const { email, password } = require("./config/config.js");
+const { email, password } = require("../config/config.js");
 const url = "https://www.vettery.com";
 
 const autoApply = async () => {
