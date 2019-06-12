@@ -14,7 +14,7 @@ This script is for those who want to show interest in all companies on Vettery.c
 1. Run `npm install` in the terminal to install dependencies
 1. In the `config` folder, make a copy of the `config.example.js` file
 1. Edit the `config.js` file you created and fill in your e-mail and password and then save the file
-   _Optional: If you don't want to a Chromium browser to open, go into the `scripts` folder and change `headless` to **true** in `autoapply.js`_
+1. _Optional: If you don't want to a Chromium browser to open, go into the `scripts` folder and change `headless` to **true** in `autoapply.js`_
 1. Run `npm start` in the terminal to run the script
 1. The terminal will log how many companies the script applied to when complete
 
