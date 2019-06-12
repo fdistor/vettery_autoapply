@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "apply": "node scripts/autoapply.js"
+    "start": "node scripts/autoapply.js"
   },
   "repository": {
     "type": "git",
